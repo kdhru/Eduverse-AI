@@ -1,0 +1,9 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
+requests>=2.31
+python-dotenv>=1.0
+pymongo>=4.6
+chromadb>=0.5
+sentence-transformers>=3.0
+python-multipart>=0.0.9
